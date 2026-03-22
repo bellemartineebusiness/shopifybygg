@@ -357,5 +357,22 @@
       "default_title": "Default Title",
       "sticky_add_to_cart": "Quick add to cart bar"
     }
+  },
+  "cookie_consent": {
+    "dialog_label": "Cookie consent",
+    "description_html": "We use cookies to improve your experience, analyse site traffic, and personalise marketing. By clicking \"Accept All\" you consent to all cookies. <a href=\"{{ privacy_url }}\">Privacy Policy</a>",
+    "accept_all": "Accept All",
+    "reject_non_essential": "Reject Non-Essential",
+    "manage_preferences": "Manage Preferences",
+    "preferences_label": "Cookie category preferences",
+    "preferences_legend": "Choose which cookie categories you accept",
+    "always_on": "Always On",
+    "save_preferences": "Save Preferences",
+    "necessary_title": "Strictly Necessary",
+    "necessary_description": "These cookies are required for the website to function and cannot be switched off. They are set in response to actions you take such as logging in or adding items to your cart.",
+    "analytics_title": "Analytics",
+    "analytics_description": "These cookies allow us to count visits and traffic sources so we can measure and improve site performance. The data is aggregated and anonymous.",
+    "marketing_title": "Marketing",
+    "marketing_description": "These cookies are set by our advertising partners and used to build a profile of your interests in order to show you relevant ads on other sites."
   }
 }
